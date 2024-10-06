@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joisandresky
-- 👀 I’m interested in Golang Javascript Typescript Lua (FiveM only) Golang
+- 👀 I’m interested in Golang Javascript Typescript Lua (FiveM only) Golang Rust
 - 🌱 I’m currently learning Rust :)
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
